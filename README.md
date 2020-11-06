@@ -38,11 +38,11 @@ Working with git is nothing new to me. But it was interesting to repeat some of 
 
 ---
 
-##General
+## General
 
 ---
 
-###Git Basics
+### Git Basics
 
 ####Version Control with Git
 The Udacity course provides basic knowledge and understanding of how git works, which is very useful for those who have not worked with version control systems.
@@ -53,19 +53,28 @@ I really liked how the visualization of the teams was done.
 
 ![Screenshot-image-link](task_git_basics/udacity.png)
 
-####Learn Git branching interactive course
+</p>
+</details>
+
+
+#### Learn Git branching interactive course
 From this course I learned new comand "cherry-pick" and had a lot of fun solving their puzzles.
 
 <details><summary>Screenshot1</summary>
 <p>
 
 ![Screenshot-image-link](task_git_basics/branchin1.png)
+</p>
+</details>
 
 <details><summary>Screenshot2</summary>
 <p>
 
 ![Screenshot-image-link](task_git_basics/branchin2.png)
+</p>
+</details>
 
-####Results
+
+#### Results
 
 Working with git is nothing new to me. But it was interesting to repeat some of his commands that I don't often use in my work. Unfortunately for me, working with git worktree was not mentioned in these courses.
