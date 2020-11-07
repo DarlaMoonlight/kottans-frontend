@@ -12,7 +12,7 @@
     - Course: Linux Survival
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 1
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 2
-- [ ] **2.** [VCS (hello gitty), GitHub and Collaboration]()
+- [x] **2.** [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
     - Course: GitHub & Collaboration
     - Course: Learn Git branching (last levels)
 
@@ -117,3 +117,24 @@ As a user of the Windows system, I was very interested to learn more about Linux
 
 These articles make it clear what the HTTP protocol is. Much of the information presented needs to be read thoughtfully and several times.
 The articles are very informative and do not immediately fit into my head, so I think I will return to them at least twice more for a more detailed understanding.
+
+---
+
+### Git Collaboration
+
+####Course: GitHub & Collaboration
+
+This course is a follow-up to Version Control with Git. In it, we will learn more detailed work with a remote repository and good practices of cooperation with other free software developers.
+I don’t use 'pull requests' on a daily basis, so this topic was very interesting to me.
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/udacity_git.PNG)
+</p>
+</details>
+
+
+#### Course: Learn Git branching (last levels)
+
+I finished this course with an assignment [Learn Git branching interactive course](#learn-git-branching-interactive-course)
