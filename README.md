@@ -1,5 +1,6 @@
 # kottans-frontend
-Working with git is nothing new to me. But it was interesting to repeat some of his commands that I don't often use in my work. Unfortunately for me, working with git worktree was not mentioned in these courses.
+
+---
 
 ## Curriculum:
 
