@@ -46,7 +46,7 @@ Working with git is nothing new to me. But it was interesting to repeat some of 
 
 #### Version Control with Git
 The Udacity course provides basic knowledge and understanding of how git works, which is very useful for those who have not worked with version control systems.
-I really liked how the visualization of the teams was done.
+I really liked how the visualization of the git commands was done.
 
 <details><summary>Screenshot</summary>
 <p>
