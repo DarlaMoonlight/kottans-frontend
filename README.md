@@ -7,7 +7,7 @@
 **General**
 - [x] **0.** [Git Basics](#git-basics)
     - Course: Version Control with Git (Udasity)
-    - Course: Learn Git branching]
+    - Course: Learn Git branching
 - [ ] **1.** [Linux CLI and Networking]()
     - Course: Linux Survival
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 1
