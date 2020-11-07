@@ -122,7 +122,7 @@ The articles are very informative and do not immediately fit into my head, so I 
 
 ### Git Collaboration
 
-####Course: GitHub & Collaboration
+#### Course: GitHub & Collaboration
 
 This course is a follow-up to Version Control with Git. In it, we will learn more detailed work with a remote repository and good practices of cooperation with other free software developers.
 I don’t use 'pull requests' on a daily basis, so this topic was very interesting to me.
