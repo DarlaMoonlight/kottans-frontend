@@ -24,7 +24,7 @@
 - [ ] **4.** [Responsive Web Design]()
     - Course: Responsive Web Design Fundamentals
     - Game: Flexbox froggy
-- [ ] **5.** [HTML & CSS **Practice**]()
+- [ ] **5.** [HTML & CSS Practice]()
 - [ ] **6.** [JavaScript Basics]()
 - [ ] **7.** [Document Object Model]() - practice
 
@@ -137,7 +137,7 @@ I don’t use 'pull requests' on a daily basis, so this topic was very interesti
 
 #### Course: Learn Git branching (last levels)
 
-I finished this course with an assignment [Learn Git branching interactive course](#learn-git-branching-interactive-course)
+I finished this course with an assignment [Learn Git branching interactive course](#learn-git-branching-interactive-course)git 
 
 ---
 
@@ -150,6 +150,7 @@ I finished this course with an assignment [Learn Git branching interactive cours
 This section is filled with practice, which made me very happy. Html and css are not new languages for me, I studied them 1.5 years ago.
 But there were also new moments for me. The section about semantic html and grid in CSS turned out to be very interesting.
 Thanks to the free pro period at the Codeacademy, I passed all the practical sections and test tasks to test knowledge, which was very useful for me.
+I create very interesting project with Codeacademy course. This project [is here](https://github.com/DarlaMoonlight/kottans_course_tea_codacademy_project).
 
 #### Intro to HTML & CSS (Udasity)
 
