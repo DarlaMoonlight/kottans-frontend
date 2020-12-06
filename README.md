@@ -21,7 +21,7 @@
     - Course: Intro to HTML & CSS (Udasity)
     - Course: Learn HTML(Codeacademy)
     - Course: Learn CSS(Codeacademy)
-- [ ] **4.** [Responsive Web Design]()
+- [ ] **4.** [Responsive Web Design](#responsive-web-design)
     - Course: Responsive Web Design Fundamentals
     - Game: Flexbox froggy
 - [ ] **5.** [HTML & CSS Practice]()
@@ -176,6 +176,39 @@ I create very interesting project with Codeacademy course. This project [is here
 <p>
 
 ![Screenshot-image-link](task_html_css_intro/csscodeacademy.png)
+</p>
+</details>
+
+---
+
+### Responsive Web Design
+
+In this course new for me:
+    - remote debugging. This is amazing. 
+    - minor and major breakpoint.
+    - Mobile First method
+    - Responsive Design layout patterns. 
+
+A lot of information from this course will come usefull for practical use.
+
+
+#### Course: Responsive Web Design Fundamentals
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_responsive_web_design/responsive_web_design.PNG)
+</p>
+</details>
+
+#### Game: Flexbox froggy
+
+For me, as for a person who needs to code everything in practice, in order to remember information Frogger Game helped to deal with incomprehensible moments in flex-box.
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_responsive_web_design/flex-box-froggy.PNG)
 </p>
 </details>
 
