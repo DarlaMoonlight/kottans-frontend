@@ -46,7 +46,15 @@ I really liked how the visualization of the git commands was done.
 <details><summary>Screenshot</summary>
 <p>
 
-![Screenshot-image-link](task_git_basics/Coursera_week_1_2.png)
+![Screenshot-image-link](task_git_basics/Coursera_week_1.png)
+
+</p>
+</details>
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_git_basics/Coursera_week_2.png)
 
 </p>
 </details>
