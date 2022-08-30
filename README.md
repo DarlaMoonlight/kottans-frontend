@@ -119,3 +119,43 @@ As a user of the Windows system, I was very interested to learn more about Linux
 These articles make it clear what the HTTP protocol is. Much of the information presented needs to be read thoughtfully and several times.
 The articles are very informative and do not immediately fit into my head, so I think I will return to them at least twice more for a more detailed understanding.
 
+---
+
+### Git Collaboration
+
+#### Introduction to Git and GitHub
+
+This course is a follow-up to Version Control with Git. In it, we will learn more detailed work with a remote repository and good practices of cooperation with other free software developers.
+I don’t use 'pull requests' on a daily basis, so this topic was very interesting to me.
+
+<details><summary>Screenshot1</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/Coursera_week_3.png)
+</p>
+</details>
+
+<details><summary>Screenshot2</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/Coursera_week_4.png)
+</p>
+</details>
+
+#### Course: Learn Git branching (last levels)
+
+I finished this course with an assignment [Learn Git branching interactive course](#learn-git-branching-interactive-course) git 
+
+<details><summary>Screenshot1</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/learngitbranching_all_main.PNG)
+</p>
+</details>
+
+<details><summary>Screenshot2</summary>
+<p>
+
+![Screenshot-image-link](task_git_collaboration/learngitbranching_all_remote.PNG)
+</p>
+</details>
