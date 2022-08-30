@@ -7,11 +7,11 @@
 - [x] **0.** [Git Basics](#git-basics)
     - Course: Introduction to Git and GitHub (Coursera 1-2 weeks)
     - Course: Learn Git branching
-- [x] **1.** [Linux CLI and Networking](#linux-cli-and-http)
+- [x] **1.** [Linux CLI and HTTP](#linux-cli-and-http)
     - Course: Linux Survival
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 1
     - Article: HTTP: The Protocol Every Web Developer Must Know - Part 2
-- [ ] **2.** [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+- [x] **2.** [VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
     - Course: Introduction to Git and GitHub (Coursera 3-4 weeks)
     - Course: Learn Git branching (last levels)
 
