@@ -16,7 +16,10 @@
     - Course: Learn Git branching (last levels)
 
 **Front-End Basics**
-- [ ] **3.** [Intro to HTML & CSS]()
+- [ ] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
+    - Course: Intro to HTML & CSS (Coursera)
+    - Course: Learn HTML(Codeacademy)
+    - Course: Learn CSS(Codeacademy)
 - [ ] **4.** [Responsive Web Design]()
 - [ ] **5.** [HTML & CSS Practice]()
 - [ ] **6.** [JavaScript Basics]()
@@ -157,5 +160,35 @@ I finished this course with an assignment [Learn Git branching interactive cours
 <p>
 
 ![Screenshot-image-link](task_git_collaboration/learngitbranching_all_remote.PNG)
+</p>
+</details>
+
+---
+
+## Front-End Basics
+
+---
+
+### Intro to HTML and CSS
+
+This section is filled with practice, which made me very happy. Html and css are not new languages for me, I studied them 1.5 years ago.
+But there were also new moments for me. The section about semantic html and grid in CSS turned out to be very interesting.
+Thanks to the free pro period at the Codeacademy, I passed all the practical sections and test tasks to test knowledge, which was very useful for me.
+
+#### Intro to HTML & CSS (Coursera)
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/html_and_css_coursera.PNG)
+</p>
+</details>
+
+#### Learn HTML(Codeacademy) & Learn CSS(Codeacademy)
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Screenshot-image-link](task_html_css_intro/html_and_css_codeacademy.PNG)
 </p>
 </details>
