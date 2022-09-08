@@ -16,7 +16,7 @@
     - Course: Learn Git branching (last levels)
 
 **Front-End Basics**
-- [ ] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
+- [x] **3.** [Intro to HTML & CSS](#intro-to-html-and-css)
     - Course: Intro to HTML & CSS (Coursera)
     - Course: Learn HTML(Codeacademy)
     - Course: Learn CSS(Codeacademy)
